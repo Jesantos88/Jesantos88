@@ -20,7 +20,7 @@
   
 <h2>📺 YouTube: DIY Labs </h2>
 
-- [How to get into Cybersecurity Starting From Zero]()
+- [Coming soon!]()
 
 
 <h2> 🤳 Connect with me:</h2>
