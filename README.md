@@ -18,6 +18,7 @@
 - [Google Technical Support Fundamentals](https://coursera.org/share/b29dde27b3242ebcef64431e03068ce6)
 - [Google The Bits and Bytes of Computer Networking](https://coursera.org/share/0c596e6fb2b6856c4a2b30f51e442e4c)
 - [Intro to Splunk ](https://imgur.com/a/3K8KrkE)
+- [Qualys:Vulnerability Management Detection & Response](https://i.imgur.com/1sHTflF.png)
   
 <h2>📺 YouTube: DIY Labs </h2>
 
