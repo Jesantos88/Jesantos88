@@ -4,7 +4,6 @@
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Jesantos88/Windows-EventLog-Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion/blob/main/README.md)
-  - [Active Directory Bulk User Creation]()
 
 <h2>🎓 Certifactions:</h2>
 
