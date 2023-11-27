@@ -4,14 +4,7 @@
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Jesantos88/Windows-EventLog-Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion/blob/main/README.md)
-  - [Vulnerability Managment: Nessus]()
-  - [JWipe (Disk Wiping Utility)]()
   - [Active Directory Bulk User Creation]()
-  - [FIM (File Integrity Monitor)]()
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)]()
-  - [Ransomware Proof of Concept (Decrypter)]()
-  - [Keylogger with Email Capability]()
 
 <h2>🎓 Certifactions:</h2>
 
